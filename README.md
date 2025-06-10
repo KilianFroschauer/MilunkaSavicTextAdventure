@@ -2,8 +2,8 @@
 <br>
 
 ## Step by step explanation:
-<li>
-  1. Change Directory to Working Folder <br>
-  2. Type: ['main.pl']. <br>
-  3. Enjoy the Game <br>
-</li>
+<ui>
+  <li>1. Change Directory to Working Folder </li>
+  <li>2. Type: ['main.pl']. </li>
+  <li>3. Enjoy the Game </li>
+</ul>
